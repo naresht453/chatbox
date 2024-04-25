@@ -1,0 +1,32 @@
+.heading{
+ text-align: center;
+ color: #323f4b ;
+ background-color:#52606d ;
+ color: white;
+    
+}
+.mahesh{
+    text-align: center;
+    background-color: #47a3f3;
+    color: white;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    margin: 6px;
+    padding: 8px;
+}
+.rahul{
+    text-align: center;
+    background-color:#52606d  ;
+    color: white;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    margin: 6px;
+    padding: 8px;
+}
+.container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 100vh;
+    width: 400px;
+    font-family: Roboto;
+    font-size: 18px;
+}
